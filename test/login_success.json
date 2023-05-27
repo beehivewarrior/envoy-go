@@ -1,0 +1,6 @@
+{
+  "message": "success",
+  "session_id": "1234567890",
+  "manager_token": "eyJhbGciOiJIUzI1NiJ",
+  "is_consumer": true
+}
